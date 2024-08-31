@@ -1,0 +1,11 @@
+- open two browser tab side by side
+- open the same link hosted for the repo in both tab
+- now form one browser tab click on create offer
+- copy the value from the textarea
+- paste it to the second browser SDP OFFER field
+- in second browser click on create answer
+- copy the value from the textarea
+- paste it on first browser's SDP Answer textarea
+- now from the first browser click on Add answer button
+- you connection establishment done
+
